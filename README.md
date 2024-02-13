@@ -12,6 +12,8 @@
      </a>
  </div>
 
+<br>
+ 
 Olá! Sou um entusiasta em desenvolvimento web full-stack com sede de conhecimento e paixão por gerar valor através do meu código.
 
 Com uma habilidade natural de aprender rápido e um pensamento lógico afiado, sou determinado e persistente em busca dos meus objetivos. Organizado e comprometido, estou sempre em busca de novos desafios para aprimorar minhas habilidades.
