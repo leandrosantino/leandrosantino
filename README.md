@@ -18,13 +18,25 @@ Here you find my main study projects, in my favorite technologies.
      <img src="https://skillicons.dev/icons?i=docker,nginx,aws,firebase">
 </div>
 
+## ⭐ Favorite Repositories
+
+Here are three of my favorite repositories:
+
+- [📌 poupa.online](https://github.com/leandrosantino/poupa.online) - System similar to an online fundraiser, developed in Java with Spring Boot using the Mercado Pago payment API
+- [📌 CatalogManager](https://github.com/leandrosantino/catalogmanager) - Solution for Anota.ai's Backend Challenge, which implements messaging and file storage.
+- [📌 Otrack](https://github.com/leandrosantino/otrack) - System for managing service orders and locating technicians in real time
 <br>
 
-## 🚀 Portfolio Website
+## 👨‍💻 About Me
 
-My personal portfolio with my main projects and experiences.</p>
-🔗 **Online**: <a href="https://leandropersonal.netlify.app/" target="_blank">leandropersonal.netlify.app</a> <br>
-📂 **Repositório:** <a href="https://github.com/leandrosantino/portfolio" target="_blank">github.com/leandrosantino/portfolio</a>
+I am a student and technology enthusiast. I chose this field because I enjoy developing solutions that improve and simplify people's lives. I have been gaining knowledge in this area for about three years, and I recently started a Computer Science degree.
+
+<br>
+
+## 📬 Contact
+
+✉️ Email (gmail): [leandrosantino2013@gmail.com](leandrosantino2013@gmail.com) <br>
+✉️ Email (hotmail): [leandrosantino2013@hotmail.com](leandrosantino2013@hotmail.com)
 
 <br>
 
