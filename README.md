@@ -22,9 +22,9 @@ Here you find my main study projects, in my favorite technologies.
 
 Here are three of my favorite repositories:
 
+- [📌 oTrack](https://github.com/leandrosantino/otrack) - System for managing service orders and locating technicians in real time
 - [📌 poupa.online](https://github.com/leandrosantino/poupa.online) - System similar to an online fundraiser, developed in Java with Spring Boot using the Mercado Pago payment API
 - [📌 CatalogManager](https://github.com/leandrosantino/catalogmanager) - Solution for Anota.ai's Backend Challenge, which implements messaging and file storage.
-- [📌 oTrack](https://github.com/leandrosantino/otrack) - System for managing service orders and locating technicians in real time
 <br>
 
 ## 👨‍💻 About Me
