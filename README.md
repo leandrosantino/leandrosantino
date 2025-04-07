@@ -7,11 +7,11 @@ Here you find my main study projects, in my favorite technologies.
 
 <div align="center">
      <h3>Back-end Skills</h3>
-     <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,python,electron">
+     <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,electron,python">
      <h3>Front-end Skills</h3>
-     <img src="https://skillicons.dev/icons?i=ts,js,angular,react,vite,tailwind,styledcomponents,sass">
+     <img src="https://skillicons.dev/icons?i=ts,js,angular,react,vite,tailwind,styledcomponents">
      <h3>Database Skills</h3>
-     <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase">
+     <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongo">
      <h3>Build, Packer and Automation Skills</h3>
      <img src="https://skillicons.dev/icons?i=gradle,webpack">
      <h3>DevOps Skills</h3>
