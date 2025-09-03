@@ -36,7 +36,8 @@ I am a student and technology enthusiast. I chose this field because I enjoy dev
 ## 📬 Contact
 
 ✉️ Email (gmail): [leandrosantino2013@gmail.com](leandrosantino2013@gmail.com) <br>
-✉️ Email (hotmail): [leandrosantino2013@hotmail.com](leandrosantino2013@hotmail.com)
+✉️ Email (hotmail): [leandrosantino2013@hotmail.com](leandrosantino2013@hotmail.com) <br>
+📄 curriculum : [leandrosantino/curriculo](https://github.com/leandrosantino/curriculo)
 
 <br>
 
